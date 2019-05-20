@@ -110,10 +110,3 @@ function openUrl() {
         }
     }
 }
-
-
-
-
-
-
-
